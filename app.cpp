@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello v1.0 (tag)");
+    printf("Hello v2.0 (latest)");
     return true;
 }
