@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("Hello v2.0 (latest)");
+    printf("Hello world");
+    printf("Version v2.1 (tagged)");
     return true;
 }
