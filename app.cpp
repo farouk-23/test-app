@@ -3,6 +3,6 @@
 int main()
 {
     printf("Hello world");
-    printf("Version v2.1 (tagged)");
+    printf("Version v2.2 (last)");
     return true;
 }
