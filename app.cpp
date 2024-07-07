@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello world");
-    printf("Version v2.2 (last)");
+    printf("Hello world...");
+    printf("Version v3.0 (last)");
     return true;
 }
